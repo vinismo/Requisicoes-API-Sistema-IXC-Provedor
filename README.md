@@ -2,3 +2,6 @@
 
 
 Requisições API em PHP, no Sistema do IXC Provedor.
+
+Inserir cadastro de cliente
+Editar cadastro de cliente
