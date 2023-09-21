@@ -8,3 +8,4 @@ Requisições API em PHP, no Sistema do IXC Provedor.
 - Listar cliente pelo CPF
 - Deletar cliente
 - Inserir contrato
+- Editar contrato
