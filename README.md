@@ -10,3 +10,5 @@ Requisições API em PHP, no Sistema do IXC Provedor.
 - Listar cadastro de cliente pelo CPF
 - Inserir contrato
 - Editar contrato
+- Listar contrato
+- Deletar contrato
