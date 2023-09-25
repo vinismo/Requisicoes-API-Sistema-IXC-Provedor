@@ -13,3 +13,4 @@ Requisições API em PHP, no Sistema do IXC Provedor.
 - Listar contrato
 - Deletar contrato
 - Listar produto
+- Deletar produto
