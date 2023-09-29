@@ -20,3 +20,4 @@ Requisições API em PHP, no Sistema do IXC Provedor.
 - Editar boleto
 - Listar boleto
 - Deletar boleto
+- Liberação manual
