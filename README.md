@@ -10,18 +10,21 @@
 - Listar contrato
 - Listar produto
 - Liberação manual
+  
 
 ### Método POST
 - Inserir boleto
 - Inserir cadastro de cliente
 - Inserir produto
 - Inserir contrato
+  
 
 ### Método PUT
 - Editar produto
 - Editar boleto
 - Editar contrato
 - Editar cadastro de cliente
+  
 
 ### Método DELETE
 - Deletar produto
