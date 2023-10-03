@@ -12,28 +12,28 @@
 - Liberação manual
 
 ### Método POST
-
-
+- Inserir boleto
+- Inserir cadastro de cliente
+- Inserir produto
+- Inserir contrato
 
 ### Método PUT
-
-
-- Inserir boleto
+- Editar produto
 - Editar boleto
+- Editar contrato
+- Editar cadastro de cliente
 
 ### Método DELETE
-
 - Deletar produto
 - Deletar boleto
 - Deletar contrato
 - Deletar cadastro de cliente
 
 
-- Inserir cadastro de cliente
-- Editar cadastro de cliente
 
-- Inserir contrato
-- Editar contrato
 
-- Editar produto
-- Inserir produto
+
+
+
+
+
