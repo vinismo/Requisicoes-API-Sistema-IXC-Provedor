@@ -1,23 +1,39 @@
 # Requisições API Sistema IXC Provedor
 
 
-Requisições API em PHP, no Sistema do IXC Provedor.
+## Requisições API em PHP, no Sistema do IXC Provedor.
+
+### Método GET
+- Listar cadastro de cliente
+- Listar cadastro de cliente pelo CPF
+- Listar boleto
+- Listar contrato
+- Listar produto
+- Liberação manual
+
+### Método POST
+
+
+
+### Método PUT
+
+
+- Inserir boleto
+- Editar boleto
+
+### Método DELETE
+
+- Deletar produto
+- Deletar boleto
+- Deletar contrato
+- Deletar cadastro de cliente
+
 
 - Inserir cadastro de cliente
 - Editar cadastro de cliente
-- Deletar cadastro de cliente
-- Listar cadastro de cliente
-- Listar cadastro de cliente pelo CPF
+
 - Inserir contrato
 - Editar contrato
-- Listar contrato
-- Deletar contrato
-- Inserir produto
+
 - Editar produto
-- Listar produto
-- Deletar produto
-- Inserir boleto
-- Editar boleto
-- Listar boleto
-- Deletar boleto
-- Liberação manual
+- Inserir produto
