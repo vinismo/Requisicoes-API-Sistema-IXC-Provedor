@@ -33,6 +33,7 @@
 - Deletar boleto
 - Deletar contrato
 - Deletar cliente
+- Deletar venda
 
 
 
