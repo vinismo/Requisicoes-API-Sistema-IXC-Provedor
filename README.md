@@ -10,6 +10,7 @@
 - Listar contrato
 - Listar produto
 - Liberação manual
+- Listar venda
   
 
 ### Método POST
