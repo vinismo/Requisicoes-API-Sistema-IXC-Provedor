@@ -18,6 +18,7 @@
 - Inserir cliente
 - Inserir produto
 - Inserir contrato
+- Inserir venda
   
 
 ### Método PUT
