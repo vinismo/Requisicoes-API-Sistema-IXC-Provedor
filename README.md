@@ -27,6 +27,7 @@
 - Editar boleto
 - Editar contrato
 - Editar cliente
+- Editar venda
   
 
 ### Método DELETE
