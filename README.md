@@ -11,6 +11,7 @@
 - Listar produto
 - Liberação manual
 - Listar venda
+- Listar lead
   
 
 ### Método POST
@@ -19,6 +20,7 @@
 - Inserir produto
 - Inserir contrato
 - Inserir venda
+- Inserir lead
   
 
 ### Método PUT
@@ -28,6 +30,7 @@
 - Editar contrato
 - Editar cliente
 - Editar venda
+- Editar lead
   
 
 ### Método DELETE
@@ -36,6 +39,7 @@
 - Deletar contrato
 - Deletar cliente
 - Deletar venda
+- Deletar lead
 
 
 
