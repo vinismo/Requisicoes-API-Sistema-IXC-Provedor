@@ -13,6 +13,7 @@
 - Listar venda
 - Listar lead
 - Listar prospecção
+- Listar negociação
   
 
 ### Método POST
@@ -23,6 +24,7 @@
 - Inserir venda
 - Inserir lead
 - Inserir prospecção
+- Inserir negociação
   
 
 ### Método PUT
@@ -34,6 +36,7 @@
 - Editar venda
 - Editar lead
 - Editar prospecção
+- Editar negociação
   
 
 ### Método DELETE
@@ -44,6 +47,7 @@
 - Deletar venda
 - Deletar lead
 - Deletar prospecção
+- Deletar negociação
 
 
 
