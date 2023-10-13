@@ -14,6 +14,7 @@
 - Listar lead
 - Listar prospecção
 - Listar negociação
+- Listar CTO
   
 
 ### Método POST
@@ -25,6 +26,7 @@
 - Inserir lead
 - Inserir prospecção
 - Inserir negociação
+- Inserir CTO
   
 
 ### Método PUT
@@ -37,6 +39,7 @@
 - Editar lead
 - Editar prospecção
 - Editar negociação
+- Editar CTO
   
 
 ### Método DELETE
@@ -48,6 +51,7 @@
 - Deletar lead
 - Deletar prospecção
 - Deletar negociação
+- Deletar CTO
 
 
 
