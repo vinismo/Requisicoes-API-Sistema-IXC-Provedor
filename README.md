@@ -15,6 +15,7 @@
 - Listar prospecção
 - Listar negociação
 - Listar CTO
+- Listar projeto
   
 
 ### Método POST
@@ -27,8 +28,9 @@
 - Inserir prospecção
 - Inserir negociação
 - Inserir CTO
-  
+- Inserir projeto
 
+  
 ### Método PUT
 - Editar produto
 - Editar cliente
@@ -40,6 +42,7 @@
 - Editar prospecção
 - Editar negociação
 - Editar CTO
+- Editar projeto
   
 
 ### Método DELETE
@@ -52,6 +55,7 @@
 - Deletar prospecção
 - Deletar negociação
 - Deletar CTO
+- Deletar projeto
 
 
 
