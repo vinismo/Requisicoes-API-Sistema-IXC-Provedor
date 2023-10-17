@@ -16,6 +16,7 @@
 - Listar negociação
 - Listar CTO
 - Listar projeto
+- Liberação redução de velocidade
   
 
 ### Método POST
