@@ -17,6 +17,7 @@
 - Listar CTO
 - Listar projeto
 - Liberação redução de velocidade
+- Listar serviços e produtos adicionais dos contratos
   
 
 ### Método POST
