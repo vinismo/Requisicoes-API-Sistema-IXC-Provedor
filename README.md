@@ -58,12 +58,4 @@
 - Deletar negociação
 - Deletar CTO
 - Deletar projeto
-
-
-
-
-
-
-
-
-
+  
