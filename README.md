@@ -18,7 +18,6 @@
 - Liberação redução de velocidade
 - Listar serviços e produtos adicionais dos contratos
   
-
 ### Método POST
 - Inserir boleto
 - Inserir cliente
