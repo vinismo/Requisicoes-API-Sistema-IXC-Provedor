@@ -30,8 +30,7 @@
 - Inserir CTO
 - Inserir projeto
 
-  
-### Método PUT
+  ### Método PUT
 - Editar produto
 - Editar cliente
 - Editar boleto
